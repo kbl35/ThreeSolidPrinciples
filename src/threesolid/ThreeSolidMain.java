@@ -15,7 +15,7 @@ public class ThreeSolidMain
    public static Robot tsRobot = new Robot();
    public static SuperWorker tsSuper = new SuperWorker();
    public static EQMWorker tsEQMWorker = new EQMWorker();
-   //this is a test run of A17
+   //this is a test run of A17-2019-24-11
 
    // The entry main() method
    public static void main(String[] args)
